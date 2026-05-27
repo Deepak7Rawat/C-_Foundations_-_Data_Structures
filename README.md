@@ -81,3 +81,11 @@ To run any of these files on your local machine, ensure you have a C++ compiler 
    ```bash
    git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
    cd Your-Repo-Name
+2. **Compile a file:**
+   g++ Ass1.cpp -o Ass1
+3. **Run the executable:**
+   Ass1.exe
+
+##👨‍💻 Author
+Deepak Rawat First-Year BCA Student | Software Development Enthusiast
+   
