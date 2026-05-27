@@ -77,15 +77,27 @@ Custom implementations of foundational linear data structures from scratch.
 
 To run any of these files on your local machine, ensure you have a C++ compiler (like GCC/G++) installed.
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
-   cd Your-Repo-Name
-2. **Compile a file:**
-   g++ Ass1.cpp -o Ass1
-3. **Run the executable:**
-   Ass1.exe
+---
 
-##👨‍💻 Author
-Deepak Rawat First-Year BCA Student | Software Development Enthusiast
+## 🚀 How to Build
+
+1.  **Clone the Repo**
+    ```bash
+    git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
+   cd Your-Repo-Name
+    ```
+2.  **Compile a Program**
+    ```bash
+    g++ Ass1.cpp -o Ass1
+    ```
+3.  **Execute**
+    ```bash
+    Ass1.exe
+    ```
+
+---
+**Maintained by [Deepak Rawat] First-Year BCA Student** *Code is poetry written in semicolons.*
+
+
+
    
