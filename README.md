@@ -1,4 +1,4 @@
-# C-_Foundations_-_Data_Structures
+# C-Foundations-Data-Structures
 This is a set of 22 sample C++ programs that showcase basic programming concepts. This includes logic implementation, string handling, matrix computation, recursion, and programming techniques to implement the Stack and Queue using OOP concepts.
 <h1 align="center">🚀 C++ Foundations & Data Structures</h1>
 
@@ -78,13 +78,11 @@ Custom implementations of foundational linear data structures from scratch.
 To run any of these files on your local machine, ensure you have a C++ compiler (like GCC/G++) installed.
 
 ---
-
 ## 🚀 How to Build
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
-   cd Your-Repo-Name
+    git clone [https://github.com/Deepak7Rawat/C-Foundations-Data-Structures.git](https://github.com/Deepak7Rawat/C-Foundations-Data-Structures.git)
     ```
 2.  **Compile a Program**
     ```bash
@@ -96,7 +94,7 @@ To run any of these files on your local machine, ensure you have a C++ compiler 
     ```
 
 ---
-**Maintained by [Deepak Rawat] First-Year BCA Student** *Code is poetry written in semicolons.*
+**Maintained by Deepak Rawat** *| Code is poetry written in semicolons.*
 
 
 
